@@ -41,11 +41,11 @@ const ProfileCard = () => {
         {`Who am I?`}
       </Typography>
       <Typography className={classes.text} component='div'>
-        {`I'm a freelancer Full Stack Javascript Developer in Waterloo, ON.`}
+        {`I'm a Full Stack Javascript Developer in Waterloo, ON.`}
         <br />
-        {`I have serious passion for Javascript, React, node.js,`}
+        {`Dedicated to developing and optimizing interactive, user-friendly, and `}
         <br />
-        {` animations and creating intuitive, dynamic user experiences.`}
+        {`feature-rich websites. I have serious passion for Javascript, React, node.js.  `}
         <br />
 
         <Link

@@ -12,7 +12,7 @@ export const profile = {
   surname: 'Ovezova',
   email: 'ovezovabb@gmail.com',
   githubUrl: 'https://github.com/ovezova',
-  linkedInUrl: 'https://www.linkedin.com/in/bibi-ovezova-5829a7212',
+  linkedInUrl: 'https://www.linkedin.com/in/ovezova',
   skills: [
     { name: 'Javascript', rate: '90' },
     { name: 'React.js', rate: '90' },
@@ -20,7 +20,7 @@ export const profile = {
     { name: 'Node.js', rate: '40' },
     { name: 'HTML', rate: '90' },
     { name: 'CSS', rate: '90' },
-    { name: 'Material UI', rate: '40' }
+    { name: 'Material UI', rate: '60' }
   ],
   portfolio: [
     {
